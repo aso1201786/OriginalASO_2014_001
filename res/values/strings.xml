@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">originalASO_2014_001</string>
+    <string name="action_settings">Settings</string>
+    <string name="omikuji">おみくじ</string>
+    <string name="btn_ok">OK</string>
+    <string name="label">今日の運勢は・・・・</string>
+    <string name="daikichi">大吉です</string>
+    <string name="tyukichi">中吉です</string>
+    <string name="daikyo">大凶です</string>
+    <string name="kyo">凶です</string>
+
+</resources>
