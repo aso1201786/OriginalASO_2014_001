@@ -10,5 +10,7 @@
     <string name="tyukichi">中吉です</string>
     <string name="daikyo">大凶です</string>
     <string name="kyo">凶です</string>
+    <string name="label2">名前を入力してください</string>
+    <string name="name">name</string>
 
 </resources>
