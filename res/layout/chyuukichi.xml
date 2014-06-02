@@ -34,4 +34,13 @@
         android:text="@string/tyukichi"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/chuukichi" />
+
 </RelativeLayout>
