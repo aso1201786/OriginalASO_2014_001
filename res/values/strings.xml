@@ -11,6 +11,6 @@
     <string name="daikyo">大凶です</string>
     <string name="kyo">凶です</string>
     <string name="label2">名前を入力してください</string>
-    <string name="name">name</string>
+    <string name="name">名前</string>
 
 </resources>
